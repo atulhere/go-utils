@@ -6,7 +6,7 @@ import(
 
 type Stack struct{
 
-	item []interface{}
+	Item []interface{}
 
 }
 
