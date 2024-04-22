@@ -1,3 +1,3 @@
 # Purpose: 
 
-The purpose of this repository is to create some liabriries for common resuable topics. 
+ This repository contains some libraries in Go for common reusable topics. 
